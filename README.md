@@ -1,5 +1,5 @@
 # ATTiny85_Fuse_Resetter
-Want to use all SIX GPIO pins on the ATTiny85? Now you can.
+Want to use all SIX GPIO pins on the ATTiny85? Now you can. See my video #87 at https://www.youtube.com/c/RalphBacon
 
 So you like the ATTiny85 chip but wish you could use ALL the pins as GPIO pins? Your wish is granted!
 
