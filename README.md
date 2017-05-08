@@ -11,9 +11,7 @@ There are some "gotchas" to watch out for (just one or two but definitely worth 
 
 I wish I had known this a few years ago as I would now be using my ATTiny85 instead of a Nano to control my fridge door alarm, that's for sure. Sometimes a Tiny85 is all you need. And it can run off batteries for weeks if not months, as my previous video on the Tiny85 mentioned.
 
-===============================
-LINKS LINKS LINKS and MORE LINKS!
-===============================
+#LINKS LINKS LINKS and MORE LINKS!
 
 High Voltage programming/Unbricking for Attiny - Yikes! Invalid device signature
 https://arduinodiy.wordpress.com/2015/05/16/high-voltage-programmingunbricking-for-attiny/
